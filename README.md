@@ -1,6 +1,6 @@
 Le colorimètreV8 possède les composants suivants:
-- 1 Capteur analogique relié à A0
-- 1 LED reliée à D3 
+- 1 Capteur analogique BPW77NB relié à A0
+- 1 LED reliée à D3 (la couleur dépend de la longueur d'onde à absorber)
 - 1 Écran LCD1602 I2C
 - 2 condensateurs 10uF 16V
 - 2 modules KY-018 modifiés (pcb utilisé seulement)

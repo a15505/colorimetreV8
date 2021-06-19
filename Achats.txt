@@ -5,6 +5,9 @@ Code
 https://github.com/a15505/colorimetreV8
 
 Achats
+1x Détecteur BPW77NB
+https://www.newark.com/vishay/bpw77nb/transistor-photo-npn-850nm-to/dp/95B4219
+
 1x LED
 https://a.aliexpress.com/_mKE4f5x
 
