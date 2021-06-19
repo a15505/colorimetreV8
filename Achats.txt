@@ -1,0 +1,27 @@
+Impression 3D
+https://grabcad.com/library/colorimetre-arduino-v8-1
+
+Code
+https://github.com/a15505/colorimetreV8
+
+Achats
+1x LED
+https://a.aliexpress.com/_mKE4f5x
+
+1x Arduino Uno avec fil USBC
+https://a.aliexpress.com/_mqt3HAz
+
+1x Shield V5
+https://a.aliexpress.com/_mKU3TpL
+
+2x Condensateur 10uF
+https://a.aliexpress.com/_mMOiQrj
+
+1x Fils dupont 30 cm F-F
+https://a.aliexpress.com/_mO0dFRX
+
+1x Transformateur 9V (1A ou +)
+https://www.aliexpress.com/item/4000521124523.html?spm=a2g0o.productlist.0.0.5f3122a53O7Zxq&algo_pvid=ce725559-e56a-4ce6-9ae1-2aae37286112&algo_exp_id=ce725559-e56a-4ce6-9ae1-2aae37286112-7
+
+2 modules KY-018 (à modifier)
+https://www.aliexpress.com/item/32952648901.html?spm=a2g0o.productlist.0.0.4c3aea59w8GE8u&algo_pvid=03285e75-0b6a-430a-a8c1-04ba1a273fff&algo_exp_id=03285e75-0b6a-430a-a8c1-04ba1a273fff-6 
