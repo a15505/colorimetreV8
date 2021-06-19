@@ -8,7 +8,7 @@ Le colorimètreV8 possède les composants suivants:
 Pièces à imprimer 3D
 https://grabcad.com/library/colorimetre-arduino-v8-1
 
-Fonctionnement
+Fonctionnement.
 
 Le signal du capteur et de la sonde sont filtrés par un condensateur 10uF afin d'éliminer les variations PWM.
 L'écan ALC affiche la concentration.
