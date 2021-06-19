@@ -5,7 +5,7 @@ Le colorimètreV8 possède les composants suivants:
 - 2 condensateurs 10uF 16V
 - 2 modules KY-018 modifiés (pcb utilisé seulement)
 
-Le signal du capteur et la sonde est filtré par un condensateur 10uF afin d'elliminer les variations PWM.
+Le signal du capteur et de la sonde sont filtrés par un condensateur 10uF afin d'éliminer les variations PWM.
 L'écan ALC affiche de la concentration.
 Une fonction cal() ajuste automatiquement le niveau d'intensité lumineuse au démarrage afin d'obtenir une valeur de référence choisie (blanc).
 Une fonction permet de transformer la valeur A0-1023 captée en valeur de concentration.
