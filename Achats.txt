@@ -32,11 +32,10 @@ https://a.aliexpress.com/_mO0dFRX
 1x Transformateur 9V (1A ou +)
 https://www.aliexpress.com/item/4000521124523.html?spm=a2g0o.productlist.0.0.5f3122a53O7Zxq&algo_pvid=ce725559-e56a-4ce6-9ae1-2aae37286112&algo_exp_id=ce725559-e56a-4ce6-9ae1-2aae37286112-7
 
-2x modules KY-018 (Annulé)  Pcb commandés à partir des gerber files.
-https://www.aliexpress.com/item/32952648901.html?spm=a2g0o.productlist.0.0.4c3aea59w8GE8u&algo_pvid=03285e75-0b6a-430a-a8c1-04ba1a273fff&algo_exp_id=03285e75-0b6a-430a-a8c1-04ba1a273fff-6 
+1x Module DEL  (Pcb commandés chez https://oshpark.com/ à partir des gerber files).
 
-Fabrication du PCB
-https://oshpark.com/ (fournir le zip des gerber files)
+1x Module DEL  (Pcb commandés chez https://oshpark.com/ à partir des gerber files).
+
 
 8x vis M2.3 x 8mm
 https://www.aliexpress.com/item/32722269871.html?spm=a2g0s.8937460.0.0.5fad2e0ez4d6p2
