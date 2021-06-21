@@ -1,19 +1,19 @@
 Le colorimètreV8 possède les composants suivants:
-- 1 Capteur analogique BPW77NB relié à A0
-- 1 LED reliée à D3 (la couleur dépend de la longueur d'onde à absorber)
+- 1 Module Capteur analogique BPW77NB relié à A0
+- 1 Module LED reliée à D3 (la couleur dépend de la longueur d'onde à absorber)
+- 1 Module Arduino avec blindage V5
 - 1 Écran LCD1602 I2C
-- 1 condensateur 1uF 16V
-- 1 condensateur 10uF 16V
-- 2 modules KY-018 modifiés (pcb utilisé seulement)
 
 Pièces à imprimer 3D
 https://grabcad.com/library/colorimetre-arduino-v8-1
 
 Fonctionnement
 
-Le signal du capteur et de la sonde sont filtrés par un condensateur 10uF afin d'éliminer les variations PWM.
-L'écan ALC affiche la concentration.
+Le module arduino ajuste le niveau d'intensité lumineuse, mesure le signal du capteur et l'écan ALC affiche la concentration.
+Le module détecteur capte une partie de la lumière émise par le module DEL car la solution absorbe la lumière.
+Les signaux du capteur et de la sonde sont filtrés par des condensateur afin d'éliminer les variations PWM.
 
+Résumé du code
 setup() 
 Ajuste automatiquement le niveau d'intensité lumineuse de la DEL au démarrage afin d'obtenir une valeur de référence choisie (blanc).
 loop() 
