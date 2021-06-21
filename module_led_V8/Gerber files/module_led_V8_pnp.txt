@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=module_led_V8
+*Date=14:30:07
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;30.0688;-17.2929;0;Bottom;TXT3
+2;10µF;100 mil [THT, electrolytic];22.6444;-10.9345;90;Bottom;C1
+3;;;8.11586;-15.8071;0;Bottom;TXT3
+4;;;33.1498;-14.5428;0;Bottom;TXT3
+5;;trimpot_pth_s3_lock;12.3828;-9.81689;-90;Bottom;R1
+6;;;22.4448;-18.8252;0;Bottom;TXT3
+7;;;32.8043;-2.04459;0;Bottom;Hole2
+8;10k;THT;20.1044;-2.04449;0;Bottom;R2
+9;;;33.147;-12.2418;0;Bottom;TXT3
+10;;led10mm;3.14403;-12.4545;-90;Bottom;LED1
+11;;;25.2837;-13.1864;0;Bottom;TXT3
+12;1k;THT;17.5644;-17.2845;0;Bottom;R3
+13;;jst-3-pth;32.8643;-12.7445;90;Bottom;JP1
+14;;;4.82621;-20.4293;0;Bottom;TXT2
+15;;;33.206;-10.1036;0;Bottom;TXT3
+16;;;2.32428;-2.04459;0;Bottom;Hole1
+17;;;27.7244;-17.2845;0;Top;Pad1
