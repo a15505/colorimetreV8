@@ -14,17 +14,29 @@ https://a.aliexpress.com/_mKU3TpL
 1x LCD1602 avec convertisseur I2C
 https://www.aliexpress.com/item/32685612494.html?spm=a2g0o.productlist.0.0.49692470QwDTZM&algo_pvid=9c02f815-96b2-4635-99a3-cc5481d9434e&algo_exp_id=9c02f815-96b2-4635-99a3-cc5481d9434e-2
 
-2x Condensateur 10uF
-https://a.aliexpress.com/_mMOiQrj
+1x Condensateur 1uF
+https://www.aliexpress.com/item/32805065655.html?spm=a2g0o.productlist.0.0.732f55bbjs5LKV&algo_pvid=5aae28c0-e398-4bfd-ac6d-22fb44eb09ba&algo_exp_id=5aae28c0-e398-4bfd-ac6d-22fb44eb09ba-10
 
-1x Fils dupont 30 cm F-F
+1x Condensateur 10uF
+https://www.aliexpress.com/item/32506590868.html?spm=a2g0o.productlist.0.0.1e2a55bbcha12p&algo_pvid=9205d0f3-8c52-43a1-ac72-c43f21835911&algo_exp_id=9205d0f3-8c52-43a1-ac72-c43f21835911-4
+
+Potentiomètre 10k
+https://www.aliexpress.com/item/1005001494808879.html?spm=a2g0o.productlist.0.0.44835909DG2LjJ&algo_pvid=8817a308-453f-4230-8ed2-5d6bd1f7e390&algo_exp_id=8817a308-453f-4230-8ed2-5d6bd1f7e390-0
+
+Résistances (voir les schémas pour les valeurs)
+https://www.aliexpress.com/item/4000941138382.html?spm=a2g0o.productlist.0.0.4b7b5f01zmrcVT&algo_pvid=9d1ed903-f6b1-43a2-89f3-6a6d0312fcb3&algo_exp_id=9d1ed903-f6b1-43a2-89f3-6a6d0312fcb3-7
+
+1x Fils dupont 30 cm F-F et 20cm F-F
 https://a.aliexpress.com/_mO0dFRX
 
 1x Transformateur 9V (1A ou +)
 https://www.aliexpress.com/item/4000521124523.html?spm=a2g0o.productlist.0.0.5f3122a53O7Zxq&algo_pvid=ce725559-e56a-4ce6-9ae1-2aae37286112&algo_exp_id=ce725559-e56a-4ce6-9ae1-2aae37286112-7
 
-2x modules KY-018 (à modifier ou commander le pcb à partir des gerber files)
+2x modules KY-018 (Annulé)  Pcb commandés à partir des gerber files.
 https://www.aliexpress.com/item/32952648901.html?spm=a2g0o.productlist.0.0.4c3aea59w8GE8u&algo_pvid=03285e75-0b6a-430a-a8c1-04ba1a273fff&algo_exp_id=03285e75-0b6a-430a-a8c1-04ba1a273fff-6 
+
+Fabrication du PCB
+https://oshpark.com/ (fournir le zip des gerber files)
 
 8x vis M2.3 x 8mm
 https://www.aliexpress.com/item/32722269871.html?spm=a2g0s.8937460.0.0.5fad2e0ez4d6p2
