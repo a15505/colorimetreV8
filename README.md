@@ -19,5 +19,8 @@ Ajuste automatiquement le niveau d'intensité lumineuse de la DEL au démarrage 
 loop() 
 Mesure la valeur A0 du détecteur et affiche celle-ci à l'écran ACL.
 
+Prototype fonctionnel
+https://youtu.be/kDdkpL_VeAQ
+
 Créé par Yvon Quémener
 19 juin 2021
