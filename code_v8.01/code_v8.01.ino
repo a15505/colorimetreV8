@@ -15,7 +15,7 @@
 LiquidCrystal_I2C lcd(0x27,16,2);  // lcd(0x3F,16,2) utiliser la biblothèque I2C detect pour identifier l'adresse. https://github.com/mcauser/i2cdetect
 
 int broche_del = 3;  
-int puissance = 70;
+int puissance = 70; //valeur de puissance minimale de la del au démarrage
 float sonde = 0;
 
 void setup(){
@@ -32,7 +32,7 @@ void setup(){
   lcd.clear();
   analogWrite (broche_del,puissance);
 
-  while (sonde < 100){
+  while (sonde < 100){ //la puissance maximale définie de la del est 100
   analogWrite (broche_del,puissance);
   delay (100);
   sonde = analogRead (A0);
@@ -45,16 +45,16 @@ void setup(){
   lcd.setCursor(0,1);
   lcd.print(sonde,0);
   lcd.print(" %");
-}
+  }
   puissance--;
   lcd.setCursor(0,0);
   lcd.print("                ");
 }
 
 void loop(){
-analogWrite (broche_del,puissance);
-sonde = analogRead (A0);  // ajuster la del afin d'obtenir un signal de 512 
-sonde = sonde / 5.12; // division afin d'obtenir une valeur en pourcentage
+  analogWrite (broche_del,puissance);
+  sonde = analogRead (A0);  // ajuster la del afin d'obtenir un signal de 512 
+  sonde = sonde / 5.12; // division afin d'obtenir une valeur en pourcentage
   Serial.println (sonde);
   lcd.setCursor(0,0);
   lcd.print("Mesure");
@@ -64,5 +64,4 @@ sonde = sonde / 5.12; // division afin d'obtenir une valeur en pourcentage
   lcd.print(sonde,0);
   lcd.print(" %");
   delay (200);
-
 }
