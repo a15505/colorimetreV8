@@ -1,6 +1,8 @@
 Achats
-1x Détecteur BPW77NB
+1x Détecteur BPW77NB (version 8.01)
 https://www.newark.com/vishay/bpw77nb/transistor-photo-npn-850nm-to/dp/95B4219
+1x Détecteur 3DU5C (version 8.02)
+https://www.aliexpress.com/item/1005002317066426.html?spm=a2g0o.productlist.0.0.4dc8705bO5YX3x&algo_pvid=58b169f8-0aca-42e3-830b-2a53a34ba515&algo_exp_id=58b169f8-0aca-42e3-830b-2a53a34ba515-0
 
 1x LED
 https://a.aliexpress.com/_mKE4f5x
@@ -23,10 +25,11 @@ https://www.aliexpress.com/item/32805065655.html?spm=a2g0o.productlist.0.0.732f5
 1x Condensateur 10uF
 https://www.aliexpress.com/item/32506590868.html?spm=a2g0o.productlist.0.0.1e2a55bbcha12p&algo_pvid=9205d0f3-8c52-43a1-ac72-c43f21835911&algo_exp_id=9205d0f3-8c52-43a1-ac72-c43f21835911-4
 
-Potentiomètre 10k
+Potentiomètre 10k (version 8.01)
 https://www.aliexpress.com/item/1005001494808879.html?spm=a2g0o.productlist.0.0.44835909DG2LjJ&algo_pvid=8817a308-453f-4230-8ed2-5d6bd1f7e390&algo_exp_id=8817a308-453f-4230-8ed2-5d6bd1f7e390-0
 
 Résistances (voir les schémas pour les valeurs)
+Note : 
 https://a.aliexpress.com/_mtgCAVF
 
 1x Fils dupont 30 cm F-F et 20cm F-F

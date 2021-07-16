@@ -27,7 +27,7 @@ void setup(){
   lcd.setCursor(0,0);
   lcd.print("Colorimetre");
   lcd.setCursor(0,1);
-  lcd.print("V8");
+  lcd.print("V8.02");
   delay (2000);
   lcd.clear();
   
@@ -43,8 +43,10 @@ void setup(){
   analogWrite (broche_del,puissance);
   delay (100);
   sonde = analogRead (A0);
-  sonde = sonde / 5.12;
+  sonde = sonde / 3.5;
   puissance++;
+  puissance = constrain(puissance, 0, 255); 
+  Serial.println(puissance);
   lcd.setCursor(0,0);
   lcd.print("Calibration");
   lcd.setCursor(0,1);
@@ -61,7 +63,7 @@ void setup(){
 void loop(){
   analogWrite (broche_del,puissance);
   sonde = analogRead (A0);  // ajuster la del afin d'obtenir un signal de 512 
-  sonde = sonde / 5.12; // division afin d'obtenir une valeur en pourcentage
+  sonde = sonde / 3.5; // division afin d'obtenir une valeur en pourcentage
   Serial.println (sonde);
   lcd.setCursor(0,0);
   lcd.print("Mesure");
