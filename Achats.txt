@@ -38,9 +38,9 @@ https://a.aliexpress.com/_mO0dFRX
 1x 3 pin Header
 https://www.aliexpress.com/item/4000694229610.html?spm=a2g0o.productlist.0.0.27383dea7UhOQb&algo_pvid=8686651c-eea0-444a-9b3d-4b6c7dc802a3&algo_exp_id=8686651c-eea0-444a-9b3d-4b6c7dc802a3-4
 
-1x Module DEL  (Pcb commandés chez https://oshpark.com/ à partir des gerber files).
+1x pcb pour Module DEL  (Pcb commandés chez https://oshpark.com/ à partir des gerber files).
 
-1x Module sonde  (Pcb commandés chez https://oshpark.com/ à partir des gerber files).
+1x pcb pour Module sonde  (Pcb commandés chez https://oshpark.com/ à partir des gerber files).
 
 8x vis M2.3 x 8mm
 https://www.aliexpress.com/item/32722269871.html?spm=a2g0s.8937460.0.0.5fad2e0ez4d6p2
