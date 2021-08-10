@@ -1,5 +1,5 @@
 Le colorimètreV8 possède les composants suivants:
-- 1 Module Capteur analogique BPW77NB relié à A0
+- 1 Module Capteur analogique BPW77NB (version 8.01) ou 3DU5C (version 8.02) relié à A0
 - 1 Module LED reliée à D3 (la couleur dépend de la longueur d'onde à absorber)
 - 1 Module Arduino avec blindage V5
 - 1 Écran LCD1602 I2C
